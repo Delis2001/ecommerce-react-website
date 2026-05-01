@@ -1,16 +1,64 @@
-# React + Vite
+# 🛍️ ShopHub – E-commerce React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce web application built with React, featuring authentication, cart management, and product browsing.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+👉 shophub-zeta-one.vercel.app
 
-## React Compiler
+## 📸 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🔐 User Authentication (Signup & Login)
+* 🛒 Shopping Cart (Add, Remove, Update Quantity)
+* 📦 Product Listing & Details Page
+* 💾 LocalStorage persistence
+* ⚡ Fast performance with Vite
+* 📱 Responsive design
 
-## Expanding the ESLint configuration
+## 🧑‍💻 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* React Router
+* Context API (State Management)
+* React Hook Form
+* CSS (Custom styling)
+* Vite
+
+## 📂 Project Structure
+
+src/
+├── components/
+├── pages/
+├── context/
+├── data/
+└── App.jsx
+
+## ⚙️ Installation
+
+Clone the repo:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/shophub-app.git
+cd shophub-app
+npm install
+npm run dev
+```
+
+## 🎯 Future Improvements
+
+* Payment integration (Stripe)
+* Backend (Node.js / Firebase)
+* User dashboard
+* Order history
+
+## 📄 License
+
+This project is open source.
+
+---
+
+## 🙋‍♂️ Author
+
+Your Name
+Portfolio: nwoyefidelis-portifolio.vercel.app
+GitHub: https://github.com/Delis2001
