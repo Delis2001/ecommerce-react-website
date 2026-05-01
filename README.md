@@ -4,7 +4,7 @@ A modern e-commerce web application built with React, featuring authentication, 
 
 ## 🚀 Live Demo
 
-👉 shophub-zeta-one.vercel.app
+👉 https://shophub-zeta-one.vercel.app
 
 ## 📸 Features
 
