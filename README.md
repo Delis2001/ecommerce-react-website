@@ -38,7 +38,7 @@ src/
 Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shophub-app.git
+git clone https://github.com/YOUR_USERNAME/shophub-app.git](https://github.com/Delis2001/ecommerce-react-website.git
 cd shophub-app
 npm install
 npm run dev
